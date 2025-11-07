@@ -1,0 +1,37 @@
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #fff;
+  color: #0a2ff1;
+  text-align: center;
+  margin: 0;
+  padding: 40px;
+}
+
+
+footer p {
+  font-size: 32px; 
+  font-weight: 300;
+  color: #0a2ff1;
+  margin-bottom: 30px;
+}
+
+
+footer strong {
+  font-weight: 700;
+}
+
+
+.logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+
+.logos img {
+  width: 100px;
+  vertical-align: middle;
+  margin-left: 30px;
+}
